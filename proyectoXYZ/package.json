@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/malejaps/ejemplos-pruebasoft-uv"
+        "url": "https://github.com/malejaps/example-e2e-testing-uv"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/malejaps/ejemplos-pruebasoft-uv/issues"
+        "url": "https://github.com/malejaps/example-e2e-testing-uv/issues"
     },
     "homepage": "url-readme-repo",
     "dependencies": {
