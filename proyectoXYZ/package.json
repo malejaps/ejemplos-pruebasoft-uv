@@ -1,0 +1,22 @@
+{
+    "name": "e2e-testing",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "testcafe chrome, firefox ./tests/buscador.ts",
+        "test-chrome-headless": "testcafe 'chrome:headless' ./tests/buscador.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+urlrepo"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "url-readme-repo",
+    "dependencies": {
+        "testcafe": "^1.8.6"
+    }
+}
