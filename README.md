@@ -8,7 +8,7 @@ Instructor: Maria Alejandra P.
 A node.js tool to automate end-to-end web testing
 
 ## Prerequisites
-[Node.js](https://nodejs.org/en/) [and npm](https://www.npmjs.com/) installed
+[Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed
 
 
 ## TestCafe Configuration
