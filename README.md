@@ -1,5 +1,7 @@
 # ejemplos-pruebasoft-uv
-Basic e2e example for UV course.
+Basic e2e example for Universidad del Valle
+Course: Pruebas de Software 
+Instructor: Maria Alejandra P.
 
 ## Tools
 [TestCafe](https://devexpress.github.io/testcafe/)

@@ -3,17 +3,17 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "test": "testcafe chrome, firefox ./tests/buscador.ts",
+        "test": "testcafe chrome ./tests/buscador.ts",
         "test-chrome-headless": "testcafe 'chrome:headless' ./tests/buscador.ts"
     },
     "repository": {
         "type": "git",
-        "url": "git+urlrepo"
+        "url": "https://github.com/malejaps/ejemplos-pruebasoft-uv"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/malejaps/ejemplos-pruebasoft-uv/issues"
     },
     "homepage": "url-readme-repo",
     "dependencies": {

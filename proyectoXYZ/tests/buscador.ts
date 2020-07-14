@@ -9,7 +9,7 @@ dataSet.forEach(data => {
     test('Buscar audifonos en mercado libre', async t => {
     await t
         .typeText(buscador.searchInput, data.searchElement)
-        .pressKey('enter')
-        .expect(buscador.titleText.exists).ok('', {timeout: 5000});
+        .click(buscador.searchButton)
+        .expect(buscador.resultsSection.exists).ok('',{timeout: 5000});
     });
 });

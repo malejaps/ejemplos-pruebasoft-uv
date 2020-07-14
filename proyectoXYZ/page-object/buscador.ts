@@ -3,11 +3,13 @@ import { Selector } from 'testcafe';
 class Buscador {
 
     public searchInput;
-    public titleText;
+    public resultsSection;
+    public searchButton;
 
     constructor(){
         this.searchInput = Selector('.nav-search-input');
-        this.titleText = Selector('.ui-search-breadcrumb__title');
+        this.searchButton = Selector('.nav-search-btn');
+        this.resultsSection = Selector('.ui-search-results');
     }
 }
 
