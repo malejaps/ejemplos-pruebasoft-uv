@@ -21,7 +21,7 @@ More detail: [Install TestCafe](https://devexpress.github.io/testcafe/documentat
 ## Run tests cases (option 1)
 Run the following command
 ```
-testcafe chrome, firefox ./tests/buscador.ts
+testcafe chrome ./tests/buscador.test.ts
 ```
 
 ## Run tests cases (option 2)
