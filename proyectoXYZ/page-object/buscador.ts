@@ -9,7 +9,7 @@ class Buscador {
     constructor(){
         this.searchInput = Selector('.nav-search-input');
         this.searchButton = Selector('.nav-search-btn');
-        this.resultsSection = Selector('.ui-search-results');
+        this.resultsSection = Selector('.ui-search-results').withText('Audifonos');
     }
 }
 
